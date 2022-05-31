@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recognize</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="button_start">Start Scanning</string>
+    <string name="content_description_media">Scanning</string>
+    <string name="instructions_title">Getting started</string>
+    <string name="instructions_body">Please provide camera permission when prompted, in order to start scanning.</string>
+    <string name="start_scanning">Start scanning</string>
+</resources>
